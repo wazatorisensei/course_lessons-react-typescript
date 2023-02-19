@@ -1,0 +1,25 @@
+{
+  "short_name": "Lessons",
+  "name": "Course Lessons React Typescript",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    },
+    {
+      "src": "",
+      "sizes": "",
+      "type": ""
+    }
+  ]
+}
