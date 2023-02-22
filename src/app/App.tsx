@@ -1,8 +1,9 @@
+import { AppRoutes } from "./routes"
 
 export const App = () => {
   return (
     <div>
-      Teste
+      <AppRoutes />
     </div>
   )
 }
